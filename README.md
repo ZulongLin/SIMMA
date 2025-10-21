@@ -1,6 +1,6 @@
 ### This repository contains the code presented in the work “SIMMA: Multimodal Automatic Depression Detection via Spatiotemporal Ensemble and Cross-Modal Alignment” by Yaowei Wang, Zulong Lin, Yan Teng, Yuqi Cheng, Hongyan Jiang, and Yun Yang. (TCSS 2025)
 
-#### You can run the code as follows: udio
+#### You can run the code as follows: 
 1. Install all the packages you need in the requirements.txt.
 2. According to the prompts in the paper, the time series features of face and audio are extracted from the depression videos.
 3. Load the time series features and run main.py.
